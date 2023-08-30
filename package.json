@@ -1,0 +1,22 @@
+{
+  "name": "ar-toy",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "aframe": "^1.4.0",
+    "aframe-extras": "^6.1.1",
+    "mind-ar": "^1.2.0",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "prettier": "^2.8.1",
+    "vite": "^4.0.0"
+  }
+}
